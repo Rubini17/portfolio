@@ -1,0 +1,9 @@
+body{
+  background-color: darkgray;
+  color:  #213547;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+}
+hr{
+  border: 0.5px solid #213547;
+}

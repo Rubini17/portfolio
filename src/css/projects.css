@@ -1,0 +1,10 @@
+.bold{
+    font-weight: 700;
+    font-size: 100px;
+}
+.div3{
+    background-color: rgba(245, 245, 245, 0.91);
+    height: 400px;
+    width: 900px;
+    margin-left: 100px;
+}

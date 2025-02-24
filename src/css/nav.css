@@ -1,0 +1,27 @@
+nav{
+    display:flex;
+    direction: row;
+    text-align: right;
+    justify-content: flex-end;
+   list-style-type: none;
+   font-size: 2.5em;
+   gap: 50px;
+  
+   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+}
+
+
+.link{
+    text-decoration: none;
+    color: #213547;
+    font-weight: bold;
+    padding:5px;
+
+    
+}
+.link:hover{
+    background-color: gainsboro;
+    border-radius: 10px;
+
+}
